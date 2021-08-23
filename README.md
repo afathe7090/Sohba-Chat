@@ -1,6 +1,11 @@
 # Sohba-Chat
 Sohba Shat is app Like Whatsapp Using (Firebase)
 
+
+# Note: 
+if you want to use it, You must install pods from terminal 
+All pods are writen in profile 
+
 # Image From App 
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2021-08-23 at 14 09 54](https://user-images.githubusercontent.com/76500072/130445320-8bb29492-d6c4-4fa1-8d21-fc30c25f06af.png)
